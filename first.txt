@@ -2,5 +2,18 @@ Hello,
 How are you bro..?
 I am fine what about you guys?
 
+Top 10 IT companies
+1. Google
+2. Facebook
+3. Amazon
+4. Microsoft
+5. Harman
+6. Credit Suisse
+7. Barclays
+8. HSBC
+9. TCS
+10. Infosys
+11. Wipro
+
 Regards,
 Mukesh
